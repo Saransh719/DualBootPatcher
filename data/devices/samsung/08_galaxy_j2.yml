@@ -1,10 +1,10 @@
 ---
-- name: samsung SM-J200F
+- name: samsung SM-J200G
   id: j2lte
   codenames:
-      - SM-J200F
+      - SM-J200G
       - j2lte
-  architecture: 
+  architecture: armeabi-v7a
   block_devs:
     base_dirs:
       - /dev/block/platform/13540000.dwmmc0/by-num
